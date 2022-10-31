@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=no">
+<meta name="justsystems:DeviceType" content="SmartPhoneV">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.2.0 for Windows">
+<title>Utemamo</title>
+<link rel="stylesheet" href="hpbsmtparts.css" type="text/css" id="hpbsmtparts">
+<link rel="stylesheet" href="container_00_12.css" type="text/css" id="hpbsmtcontainer">
+<link rel="stylesheet" href="main_11_12.css" type="text/css" id="hpbsmtmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbsmtuser">
+</head>
+<body id="hpb-smt-template-11-12-01" class="hpb-layoutset-01">
+<!-- container -->
+<div id="hpb-container">
+  <!-- inner -->
+  <div id="hpb-inner">
+    <!-- title -->
+    <div id="hpb-title">
+      <p><span style="font-size : 200%;">Utenano</span><span style="font-size : 200%;">HP</span></p>
+      <span style="color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(210, 227, 252); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Introducing my game</span><br>
+    </div>
+    <!-- title end --><!-- navi -->
+    <div id="hpb-nav" style="background-image : url(1000000030.jpg);"></div>
+    <br>
+    <br>
+    <img src="image_006_00141.png" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" width="200" height="200"><br>
+    <p><span style="font-size : 150%;">ShootingBeetle</span></p>
+    <p><span style="font-size : 200%;">ShootingBeetle</span><span style="color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(210, 227, 252); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+It's a shooting game</span>。<br>
+    <a href="https://play.google.com/store/apps/details?id=com.Utenano.ShootingBeetle" target="_blank">LINK</a></p>
+    <!-- navi end --><!-- main -->
+    <div id="hpb-main">
+      <!-- toppage -->
+      <div id="toppage">
+        <div id="toppage-news">
+          <div class="hpb-section">
+            <h3><span class="en">information</span></h3>
+            <dl>
+              <dt>2022/10/23HP<span style="color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(210, 227, 252); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">create</span> </dl>
+          </div>
+        </div>
+        <div id="toppage-info">
+          <div class="hpb-section"><br>
+          <br>
+          <a href="mailto:dsatoru234@gmail.com?Subject=%8E%BF%96%E2"><img src="img_a040.gif" border="0" style="width : 69px;height : 48px;" width="160" height="113"><span style="color: rgb(0, 0, 0); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(210, 227, 252); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Email</span><br>
+          </a></div>
+        </div>
+      </div>
+      <!-- toppage end -->
+    </div>
+    <!-- main end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerNav">
+      <ul>
+        <li id="pagetop"><a href="#hpb-container"><span class="ja">TOP</span><span class="en">top</span></a> 
+      </ul>
+    </div>
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2022&nbsp;Utenano&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --></body>
+</html>
